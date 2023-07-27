@@ -3,7 +3,7 @@ permalink: /
 title: "Brief Biography"
 excerpt: "Brief Biography"
 author_profile: true
-redirect_form:
+redirect_from:
 -- /biography/
 -- /biography.html
 ---
