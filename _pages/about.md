@@ -8,4 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Wei Xue is now an associate professor with the School of Computer Science and Technology, Anhui University of Technology (AHUT), Maanshan, China. He received the PhD degree in computer science and technology from Nanjing University of Science and Technology (NJUST), Nanjing, China, in 2017. From July 2019 to July 2021, he was a postdoctoral fellow with the National Key Laboratory of Automatic Target Recognition, National University of Defense Technology (NUDT), Changsha, China. His current research interests include machine learning, computer version, and data mining.
+I am now an associate professor with the School of Computer Science and Technology, Anhui University of Technology (AHUT), Maanshan, China. I received the PhD degree in computer science and technology from Nanjing University of Science and Technology (NJUST), Nanjing, China, in 2017. From July 2019 to July 2021, I was a postdoctoral fellow with the National Key Laboratory of Automatic Target Recognition, National University of Defense Technology (NUDT), Changsha, China.
+
+---
+permalink: /
+title: "Research Interests"
+excerpt: "Research Interests"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+My current research interests include machine learning, computer version, and data mining.
