@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Projects (科研项目)"
+  - title: "Projects"
     url: /projects/     
     
-  - title: "Research Group (研究小组)"
+  - title: "Research Group"
     url: /researchgroup/
     
-  - title: "Recruit Students (招生信息)"
+  - title: "Recruit Students"
     url: /recruitstudents/
 
-  - title: "Publications (学术论文)"
+  - title: "Publications"
     url: /publications/
     
-  - title: "Codes (论文代码)"
+  - title: "Codes"
     url: /codes/
